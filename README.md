@@ -1,1 +1,1 @@
-https://eliot-akira.github.io/mlog
+https://eliot-akira.github.io
